@@ -1,0 +1,15 @@
+/Users/vadymchornyi/RiderProjects/Discrete mathematics/task_1_1/bin/Debug/net6.0/task_1_1
+/Users/vadymchornyi/RiderProjects/Discrete mathematics/task_1_1/bin/Debug/net6.0/task_1_1.deps.json
+/Users/vadymchornyi/RiderProjects/Discrete mathematics/task_1_1/bin/Debug/net6.0/task_1_1.runtimeconfig.json
+/Users/vadymchornyi/RiderProjects/Discrete mathematics/task_1_1/bin/Debug/net6.0/task_1_1.dll
+/Users/vadymchornyi/RiderProjects/Discrete mathematics/task_1_1/bin/Debug/net6.0/task_1_1.pdb
+/Users/vadymchornyi/RiderProjects/Discrete mathematics/task_1_1/obj/Debug/net6.0/task_1_1.csproj.AssemblyReference.cache
+/Users/vadymchornyi/RiderProjects/Discrete mathematics/task_1_1/obj/Debug/net6.0/task_1_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadymchornyi/RiderProjects/Discrete mathematics/task_1_1/obj/Debug/net6.0/task_1_1.AssemblyInfoInputs.cache
+/Users/vadymchornyi/RiderProjects/Discrete mathematics/task_1_1/obj/Debug/net6.0/task_1_1.AssemblyInfo.cs
+/Users/vadymchornyi/RiderProjects/Discrete mathematics/task_1_1/obj/Debug/net6.0/task_1_1.csproj.CoreCompileInputs.cache
+/Users/vadymchornyi/RiderProjects/Discrete mathematics/task_1_1/obj/Debug/net6.0/task_1_1.dll
+/Users/vadymchornyi/RiderProjects/Discrete mathematics/task_1_1/obj/Debug/net6.0/refint/task_1_1.dll
+/Users/vadymchornyi/RiderProjects/Discrete mathematics/task_1_1/obj/Debug/net6.0/task_1_1.pdb
+/Users/vadymchornyi/RiderProjects/Discrete mathematics/task_1_1/obj/Debug/net6.0/task_1_1.genruntimeconfig.cache
+/Users/vadymchornyi/RiderProjects/Discrete mathematics/task_1_1/obj/Debug/net6.0/ref/task_1_1.dll
